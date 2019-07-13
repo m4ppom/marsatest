@@ -57,6 +57,10 @@ def telegram():
                 pass
             else:
                 result = no_err
+            if message =='/주식':
+                pass
+            else:
+                result =no_err
             
     else:
         result = commands
